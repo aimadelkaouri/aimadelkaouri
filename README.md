@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Aimad </h1>
-<p>A passionate <b></b>Full-Stack Developer</b> who loves building scalable, high-performance web applications. I specialize in both frontend and backend technologies, ensuring smooth and efficient user experiences.</p>
+<p>A passionate <b>Full-Stack Developer</b> who loves building scalable, high-performance web applications. I specialize in both frontend and backend technologies, ensuring smooth and efficient user experiences.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <a target="_blank" href="https://symfony.com/logos/symfony_black_03.svg" style="display: inline-block;"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="42" height="42" /></a>
